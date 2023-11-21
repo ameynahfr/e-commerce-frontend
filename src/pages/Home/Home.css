@@ -1,0 +1,14 @@
+.banner {
+    background-image: url('../Home/background.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  

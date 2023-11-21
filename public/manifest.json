@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Signify",
+  "name": "Signify Ecommerce App",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "signify-high-resolution-logo-black-transparent.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
